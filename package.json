@@ -1,0 +1,14 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "Gl hometask",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Denys Havryliv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
